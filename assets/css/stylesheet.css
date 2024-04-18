@@ -1,0 +1,124 @@
+/**********************/
+/*Activities Css*/
+/**********************/
+.card-body a {
+     text-decoration:none;
+     color:black;
+     
+}
+.card-body a:hover{
+     color:#0277bd;
+}
+
+span{
+    line-height: 1.3em;
+    font-size: 12px;
+    margin-bottom: 13px;
+    color: #adadad;
+}
+
+.card-body .card-text{
+     margin: 0;
+    line-height: 1.5em;
+    font-size: 14px;
+    color: #777;
+}
+.card-title {
+    font-size: 18px;
+}
+
+/**************************/
+/*About Section Css */
+/*************************/
+
+.aboutDetails ul li {
+     list-style:none;
+}
+.aboutDetails ul li a { 
+    text-decoration:none;
+    font-size:20px;
+}
+
+.aboutDetails ul li a:hover{
+     color:#0277bd;
+     text-decoration:underline;
+}
+
+.about-container{
+         margin-top:10px;
+}
+
+element.style {
+}
+.entry-content h2 {
+    color: #4db748;
+}
+h2 {
+    font-size: 30px;
+}
+h1, h2, h3, h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+h2{
+    font-size:20px;
+}
+
+/******************/
+/*Font Awesome Icon Css*/
+/******************/
+.font-item{
+      padding:0px 8px 0px 4px;
+}
+.contact-us-link {
+     text-decoration:none;
+     font-family:monospace;
+     font-size:16px;
+}
+.contact-us-link:hover{
+       color:white;
+       text-decoration-color:white;
+}
+
+
+ /**********************/
+ /*Partners Logo Css */
+ /**********************/
+ .partner-logo{
+         margin-bottom:5px;
+ }
+ .image-item{
+     display:flex;
+     justify-content:center;
+     align-items:center;
+ }
+ .text-item a { 
+     text-decoration:none;
+ }
+.text-item a:hover{
+      text-decoration:underline;
+      color:white;
+ }
+.text-item{
+      display:flex;
+      justify-content:center;
+     align-items:center;
+     margin-top:5px;
+     
+ }
+ 
+ /********************/
+ /*useful-links css*/
+ /********************/
+ .useful-links a{
+      text-decoration:none;
+   
+ }
+ .useful-links a:hover {
+      text-decoration:underline;
+      color:white;
+ }
+ .useful-links{
+         color:white;
+         font-size:16px;
+ }
